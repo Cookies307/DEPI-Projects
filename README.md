@@ -1,2 +1,2 @@
-# GWAPT-Project
-GWAPT Project "DEPI"
+# DEPI Projects
+DEPI Projects
